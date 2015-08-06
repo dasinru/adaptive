@@ -1,12 +1,19 @@
 .col{
 	border: 1px solid #000;
     float: left;
-    width: 250px;
-    margin-right: 48px;
+    width: 27%;
+    margin-right: 5%;
+
 }
 .wrap{
-	border: 1px solid #000;
-	width: 900px;
-	margin: 0 auto;
+	
+	border: 1px solid red;
+	
 	
 }
+.clearfix:after{
+    content:'';
+    display:table;
+    clear:both;
+}
+
