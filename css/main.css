@@ -1,12 +1,22 @@
-.col{
+.col-left{
 	border: 1px solid #000;
     float: left;
-    width: 27%;
-    margin-right: 5%;
+    width: 440px;
+    text-align: center;
+    
+
+}
+.col-right{
+    border: 1px solid #000;
+    float: right;
+    width: 440px;
+    text-align: center;
+    
 
 }
 .wrap{
-	
+	width: 900px;
+    margin: 0 auto;
 	border: 1px solid red;
 	
 	
