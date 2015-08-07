@@ -1,7 +1,7 @@
 .col-left{
 	border: 1px solid #000;
     float: left;
-    width: 440px;
+    width: 48%;
     text-align: center;
     
 
@@ -9,14 +9,14 @@
 .col-right{
     border: 1px solid #000;
     float: right;
-    width: 440px;
+    width: 48%;
     text-align: center;
     
 
 }
 .wrap{
-	width: 900px;
-    margin: 0 auto;
+	
+   
 	border: 1px solid red;
 	
 	
